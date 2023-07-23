@@ -1,2 +1,1 @@
-# Web-Application
- This application helps to know the temperature of any city.
+"This web application allows you to easily find the real-time temperature of any city in the world. Built using HTML, CSS, and JavaScript, this user-friendly application provides accurate and up-to-date weather information. Whether you want to check the current temperature of your hometown or plan a trip to a new destination, this application has got you covered. With a simple and intuitive interface, you can enter the name of any city and instantly get the latest temperature readings. Stay informed about the weather conditions and be prepared for your daily activities with this handy temperature-checking tool."
